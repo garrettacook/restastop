@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Banana",
+      "description": "A nice, yellow banana"
+    },
+    {
+      "id": 1,
+      "name": "Transistor",
+      "description": "A sleek PNP transistor"
+    }
+  ]
+}
